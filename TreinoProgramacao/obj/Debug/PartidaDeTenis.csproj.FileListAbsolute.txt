@@ -1,0 +1,6 @@
+C:\Users\roothery\source\repos\TreinoProgramacao\TreinoProgramacao\bin\Debug\TreinoProgramacao.dll
+C:\Users\roothery\source\repos\TreinoProgramacao\TreinoProgramacao\bin\Debug\TreinoProgramacao.pdb
+C:\Users\roothery\source\repos\TreinoProgramacao\TreinoProgramacao\obj\Debug\PartidaDeTenis.csprojAssemblyReference.cache
+C:\Users\roothery\source\repos\TreinoProgramacao\TreinoProgramacao\obj\Debug\PartidaDeTenis.csproj.CoreCompileInputs.cache
+C:\Users\roothery\source\repos\TreinoProgramacao\TreinoProgramacao\obj\Debug\TreinoProgramacao.dll
+C:\Users\roothery\source\repos\TreinoProgramacao\TreinoProgramacao\obj\Debug\TreinoProgramacao.pdb
