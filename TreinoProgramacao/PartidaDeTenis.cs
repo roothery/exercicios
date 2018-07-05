@@ -1,15 +1,7 @@
 ﻿using System;
 namespace PartidaDeTenis
 {
-    /*
-     * TODO:
-     * - Colocar os AAA nos testes
-     * - Arrumar nome do método (pontuacaoDoJogador, CalcularPontos)
-     * - Orienntacao a Objetos SRP
-     * - Criar classe Jogador para rodar os pontos
-     * - Ler livro: Use a cabeça Orientação a Objetos (Head First)
-     * */
-
+   
     public class PartidaDeTenis
     {
         public PartidaDeTenis(Jogador jogador1, Jogador jogador2)
